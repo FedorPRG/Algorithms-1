@@ -1,5 +1,3 @@
-import java.util.Date;
-
 public class Fib {
 
     public static int fib(int position) {
